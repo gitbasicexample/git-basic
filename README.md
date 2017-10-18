@@ -1,7 +1,5 @@
 Git Basic Example
-git fork
-
-git clone
+this will make conflict
 
 remote add
 
@@ -22,3 +20,6 @@ make pull request
  ajdsfhkhasdgfjadsf
 
  make conflict awesome
+
+
+comit-2
