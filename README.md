@@ -19,3 +19,6 @@ rebase develop
 push origin new_branch
 
 make pull request
+ ajdsfhkhasdgfjadsf
+
+ make conflict awesome
